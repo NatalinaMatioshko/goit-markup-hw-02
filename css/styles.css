@@ -122,3 +122,17 @@ a {
 .third-item {
   background-color: #ffffff;
 }
+
+.foo-end {
+  background-color: #2e2f42;
+}
+.main-text-foo {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+.accentt {
+  color: #f4f4fd;
+}
