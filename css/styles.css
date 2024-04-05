@@ -35,16 +35,23 @@ a {
 .first-item {
   color: #2e2f42;
 }
+
+.first-item:hover,
+.first-item:focus {
+  color: #404bbf;
+}
 .contacts-links {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  font-style: normal;
 }
-.cont-link:hover {
-  color: #404bbf;
+.cont-link {
+  color: #434455;
 }
+.cont-link:hover,
 .cont-link:focus {
   color: #404bbf;
 }
