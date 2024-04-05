@@ -106,15 +106,19 @@ a {
   color: #434455;
 }
 
-h2 {
+.scnd-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .section-third {
   background-color: #f4f4fd;
+}
+.a-items {
+  background-color: #ffffff;
 }
